@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ryoku-dev/ryoku-arch/main/ryoku/assets/brand/logo-mark-v2.png" alt="Ryoku" width="120" />
+<img src="https://avatars.githubusercontent.com/u/326399798?s=240&v=4" alt="Ryoku" width="120" />
 
 # Ryoku
 
