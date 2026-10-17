@@ -30,6 +30,7 @@ Ryoku favors a rich, deliberate desktop experience on capable hardware. It is **
 | [Ryomotion](https://github.com/ryoku-dev/ryomotion) | Screen recording and demo creation. |
 | [Ryoshot](https://github.com/ryoku-dev/ryoshot) | Screenshot and annotation tooling. |
 | [Ryoview](https://github.com/ryoku-dev/ryoview) | Workspace switching. |
+| [Ryomanager](https://github.com/ryoku-dev/ryomanager) | Ryoku native task manager |
 
 ### Recognized community port
 
