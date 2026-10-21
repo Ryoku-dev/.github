@@ -20,26 +20,70 @@ Ideas, bug reports, documentation, testing, and code contributions all matter. W
 
 Ryoku favors a rich, deliberate desktop experience on capable hardware. It is **not a lightweight distribution for older or low-resource computers**. Read each project's requirements before installing.
 
+
 ## Projects
 
-| Project | Purpose |
-| --- | --- |
-| [Ryoku Arch](https://github.com/ryoku-dev/ryoku-arch) | The distribution, desktop, installer, and system definition. |
-| [Ryotunes](https://github.com/ryoku-dev/ryotunes) | The Ryoku music application. |
-| [Ryostore](https://github.com/ryoku-dev/ryostore) | Community customizations and catalogue. |
-| [Ryomanager](https://github.com/ryoku-dev/ryomanager) | Ryoku native task manager |
+<table align="center">
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/ryoku-dev/ryoku-arch">Ryoku Arch</a></td>
+      <td>The distribution, desktop, installer, and system definition.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ryoku-dev/ryotunes">Ryotunes</a></td>
+      <td>The Ryoku music application.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ryoku-dev/ryostore">Ryostore</a></td>
+      <td>Community customizations and catalogue.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ryoku-dev/ryomanager">Ryomanager</a></td>
+      <td>Ryoku native task manager.</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Ryoku on NixOS
 
-[Ryoku on NixOS](https://github.com/ryoku-dev/Ryoku-on-NixOS) is our official port of Ryoku to NixOS maintained by [**aethctl**](https://github.com/aethctl) and [contributors](), it shares the Ryoku identity while keeping its own implementation and maintainership. Follow that repository's installation and support guidance for NixOS.
+[Ryoku on NixOS](https://github.com/ryoku-dev/Ryoku-on-NixOS) is our official port of Ryoku to NixOS maintained by [**aethctl**](https://github.com/aethctl) and contributors. It shares the Ryoku identity while keeping its own implementation and maintainership. Follow that repository's installation and support guidance for NixOS.
 
-| Project | Purpose |
-| --- | --- |
-| [Ryoku NixOS](https://github.com/ryoku-dev/ryoku-on-nixos) | The distribution, desktop, installer, and system definition. |
-| [Ryotunes for Nix](https://github.com/ryoku-dev/ryotunes-nix) | The Ryoku music application. |
-| [Ryostore for Nix](https://github.com/ryoku-dev/ryostore-nix) | Community made add-ons, plugins and themes, built decoratively. |
-| [Ryoshori]() | Ryoku Nix native file manager |
-| [Ryoku-Nixsync]() | Ryoku on NixOS' automatic updater |
+<table align="center">
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/ryoku-dev/ryoku-on-nixos">Ryoku NixOS</a></td>
+      <td>The distribution, desktop, installer, and system definition.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ryoku-dev/ryotunes-nix">Ryotunes for Nix</a></td>
+      <td>The Ryoku music application.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ryoku-dev/ryostore-nix">Ryostore for Nix</a></td>
+      <td>Community made add-ons, plugins and themes, built decoratively.</td>
+    </tr>
+    <tr>
+      <td>Ryoshori</td>
+      <td>Ryoku Nix native file manager.</td>
+    </tr>
+    <tr>
+      <td>Ryoku-Nixsync</td>
+      <td>Ryoku on NixOS' automatic updater.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Open source, with credit where it belongs
 
