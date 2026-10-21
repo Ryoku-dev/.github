@@ -86,7 +86,7 @@ Ryoku favors a rich, deliberate desktop experience on capable hardware. It is **
 </table>
 
 <details>
-<summary><b>**Explore the desktop**</b></summary>
+<summary><b>Explore the desktop</b></summary>
 <br />
 <table>
   <tr>
