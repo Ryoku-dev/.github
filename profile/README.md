@@ -33,6 +33,12 @@ Ryoku favors a rich, deliberate desktop experience on capable hardware. It is **
 | [Ryomanager](https://github.com/ryoku-dev/ryomanager) | Ryoku native task manager |
 
 
+
+
+### Recognized community port
+
+[Ryoku on NixOS](https://github.com/aethctl/Ryoku-on-NixOS) is our officially recognized community port, maintained in **aethctl's repository**. It shares the Ryoku identity while keeping its own implementation and maintainership. Follow that repository's installation and support guidance for NixOS.
+
 | Project | Purpose |
 | --- | --- |
 | [Ryoku NixOS](https://github.com/ryoku-dev/ryoku-on-nixos) | The distribution, desktop, installer, and system definition. |
@@ -40,10 +46,6 @@ Ryoku favors a rich, deliberate desktop experience on capable hardware. It is **
 | [Ryostore for Nix](https://github.com/ryoku-dev/ryostore-nix) | Community made add-ons, plugins and themes, built decoratively. |
 | [Ryoshori]() | Ryoku Nix native file manager |
 | [Ryoku-Nixsync]() | Ryoku on NixOS' automatic updater |
-
-### Recognized community port
-
-[Ryoku on NixOS](https://github.com/aethctl/Ryoku-on-NixOS) is our officially recognized community port, maintained in **aethctl's repository**. It shares the Ryoku identity while keeping its own implementation and maintainership. Follow that repository's installation and support guidance for NixOS.
 
 ## Open source, with credit where it belongs
 
