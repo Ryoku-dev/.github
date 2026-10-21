@@ -136,5 +136,7 @@ The project is founder-led, with community participation and responsibilities de
 For security vulnerabilities, follow the affected repository's security policy instead of opening a public issue.
 
 
-![Torii](.github/profiles/readme/asets/torii.png)
+<p align="center">
+  <img src="assets/torii.png" alt="Torii" width="600">
+</p>
 **力と美のために — For the sake of power and beauty.**
