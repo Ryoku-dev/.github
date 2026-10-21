@@ -75,11 +75,11 @@ and contributors. It shares the Ryoku identity while keeping its own implementat
       <td>The distribution, desktop, installer, and system definition.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ryoku-dev/ryotunes-nix">Ryotunes for Nix</a></td>
+      <td><a href="https://github.com/ryoku-dev/RyotunesNix">Ryotunes for Nix</a></td>
       <td>The Ryoku music application.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ryoku-dev/ryostore-nix">Ryostore for Nix</a></td>
+      <td><a href="https://github.com/ryoku-dev/RyostoreNix">Ryostore for Nix</a></td>
       <td>Community made add-ons, plugins and themes, built decoratively.</td>
     </tr>
     <tr>
