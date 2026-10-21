@@ -14,9 +14,9 @@
 
 ## A passion project, built with the community
 
-Ryoku is a community-first Linux passion project, led by [neur0map](https://github.com/neur0map) in their spare time and improved by generous contributors. There is no large company or full-time engineering team behind it. We care about making something worth using, learning as we build, and giving the community a real part in shaping it.
+Ryoku is a community-first Linux passion project, led by [neur0map](https://github.com/neur0map) and maintainers in their spare time and improved by generous contributors. There is no large company or full-time engineering team behind it. We care about making something worth using, learning as we build, and giving the community a real part in shaping it.
 
-Ideas, bug reports, documentation, testing, and code contributions all matter. What we can maintain depends on the time, knowledge, and help available. Community-first means listening and working together—not promising that every request will be included or that support is available around the clock.
+Ideas, bug reports, documentation, testing, and code contributions all matter. What we can maintain depends on the time, knowledge, and help available. Community-first means listening and working together, not promising that every request will be included or that support is available around the clock.
 
 Ryoku favors a rich, deliberate desktop experience on capable hardware. It is **not a lightweight distribution for older or low-resource computers**. Read each project's requirements before installing.
 
@@ -29,9 +29,9 @@ Ryoku favors a rich, deliberate desktop experience on capable hardware. It is **
 | [Ryostore](https://github.com/ryoku-dev/ryostore) | Community customizations and catalogue. |
 | [Ryomanager](https://github.com/ryoku-dev/ryomanager) | Ryoku native task manager |
 
-### Recognized community port
+### Ryoku on NixOS
 
-[Ryoku on NixOS](https://github.com/aethctl/Ryoku-on-NixOS) is our officially recognized community port, maintained in **aethctl's repository**. It shares the Ryoku identity while keeping its own implementation and maintainership. Follow that repository's installation and support guidance for NixOS.
+[Ryoku on NixOS](https://github.com/ryoku-dev/Ryoku-on-NixOS) is our official port of Ryoku to NixOS maintained by [**aethctl**](https://github.com/aethctl), it shares the Ryoku identity while keeping its own implementation and maintainership. Follow that repository's installation and support guidance for NixOS.
 
 | Project | Purpose |
 | --- | --- |
