@@ -85,6 +85,40 @@ Ryoku favors a rich, deliberate desktop experience on capable hardware. It is **
   </tbody>
 </table>
 
+<details>
+<summary><b>**Explore the desktop**</b></summary>
+<br />
+<table>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/aethctl/Ryoku-on-NixOS/main/docs/readme/assets/showroom/torii-sunset.webp" alt="Sunset Ryoku rice" width="100%" /></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/aethctl/Ryoku-on-NixOS/main/docs/readme/assets/showroom/monochrome-hands.webp" alt="Monochrome Ryoku rice" width="100%" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/aethctl/Ryoku-on-NixOS/main/docs/readme/assets/showroom/blue-clouds.webp" alt="Blue Ryoku rice" width="100%" /></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/aethctl/Ryoku-on-NixOS/main/docs/readme/assets/showroom/monochrome-anime.webp" alt="Minimal Ryoku rice" width="100%" /></td>
+  </tr>
+</table>
+
+  <table>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/aethctl/Ryoku-on-NixOS/main/docs/readme/assets/ui/desktop.png" alt="Ryoku desktop" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/aethctl/Ryoku-on-NixOS/main/docs/readme/assets/ui/launcher.webp" alt="Ryoku launcher" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/aethctl/Ryoku-on-NixOS/main/docs/readme/assets/ui/controls.webp" alt="Ryoku desktop controls" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/aethctl/Ryoku-on-NixOS/main/docs/readme/assets/ui/hub-page.webp" alt="Ryoku Hub" width="100%" />
+    </td>
+  </tr>
+</table>
+</details>
+
 ## Open source, with credit where it belongs
 
 Ryoku depends on the work of many upstream projects. Individual repositories retain their licenses, notices, contributor credits, and fork histories. Moving them into this organization does not erase that history or transfer every contributor's copyright.
