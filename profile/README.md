@@ -36,8 +36,8 @@ Ryoku favors a rich, deliberate desktop experience on capable hardware. It is **
 | Project | Purpose |
 | --- | --- |
 | [Ryoku NixOS](https://github.com/ryoku-dev/ryoku-on-nixos) | The distribution, desktop, installer, and system definition. |
-| [Ryotunes](https://github.com/ryoku-dev/ryotunes-nix) | The Ryoku music application. |
-| [Ryostore](https://github.com/ryoku-dev/ryostore-nix) | Community made add-ons, plugins and themes, built decoratively. |
+| [Ryotunes for Nix](https://github.com/ryoku-dev/ryotunes-nix) | The Ryoku music application. |
+| [Ryostore for Nix](https://github.com/ryoku-dev/ryostore-nix) | Community made add-ons, plugins and themes, built decoratively. |
 | [Ryoshori]() | Ryoku Nix native file manager |
 | [Ryoku-Nixsync]() | Ryoku on NixOS' automatic updater |
 
