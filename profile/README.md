@@ -31,7 +31,7 @@ Ryoku favors a rich, deliberate desktop experience on capable hardware. It is **
 
 ### Ryoku on NixOS
 
-[Ryoku on NixOS](https://github.com/ryoku-dev/Ryoku-on-NixOS) is our official port of Ryoku to NixOS maintained by [**aethctl**](https://github.com/aethctl), it shares the Ryoku identity while keeping its own implementation and maintainership. Follow that repository's installation and support guidance for NixOS.
+[Ryoku on NixOS](https://github.com/ryoku-dev/Ryoku-on-NixOS) is our official port of Ryoku to NixOS maintained by [**aethctl**](https://github.com/aethctl) and [contributors](), it shares the Ryoku identity while keeping its own implementation and maintainership. Follow that repository's installation and support guidance for NixOS.
 
 | Project | Purpose |
 | --- | --- |
