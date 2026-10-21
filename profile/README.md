@@ -83,6 +83,10 @@ and contributors. It shares the Ryoku identity while keeping its own implementat
       <td>Community made add-ons, plugins and themes, built decoratively.</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/ryoku-dev/NixOS-Documentation">NixOS Docs</a></td>
+      <td>In depth documentation about the Ryoku-on-NixOS project</td>
+    </tr>
+    <tr>
       <td>Ryoshori</td>
       <td>Ryoku Nix native file manager.</td>
     </tr>
