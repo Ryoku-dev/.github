@@ -27,13 +27,7 @@ Ryoku favors a rich, deliberate desktop experience on capable hardware. It is **
 | [Ryoku Arch](https://github.com/ryoku-dev/ryoku-arch) | The distribution, desktop, installer, and system definition. |
 | [Ryotunes](https://github.com/ryoku-dev/ryotunes) | The Ryoku music application. |
 | [Ryostore](https://github.com/ryoku-dev/ryostore) | Community customizations and catalogue. |
-| [Ryomotion](https://github.com/ryoku-dev/ryomotion) | Screen recording and demo creation. |
-| [Ryoshot](https://github.com/ryoku-dev/ryoshot) | Screenshot and annotation tooling. |
-| [Ryoview](https://github.com/ryoku-dev/ryoview) | Workspace switching. |
 | [Ryomanager](https://github.com/ryoku-dev/ryomanager) | Ryoku native task manager |
-
-
-
 
 ### Recognized community port
 
