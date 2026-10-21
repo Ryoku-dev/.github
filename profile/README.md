@@ -134,3 +134,7 @@ The project is founder-led, with community participation and responsibilities de
 - For private project or stewardship questions: [neuro@ryoku.dev](mailto:neuro@ryoku.dev).
 
 For security vulnerabilities, follow the affected repository's security policy instead of opening a public issue.
+
+
+![Torii](.github/profiles/readme/asets/torii.png)
+**力と美のために — For the sake of power and beauty.**
