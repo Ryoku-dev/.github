@@ -87,13 +87,9 @@ and contributors. It shares the Ryoku identity while keeping its own implementat
       <td>In depth documentation about the Ryoku-on-NixOS project</td>
     </tr>
     <tr>
-      <td>Ryoshori</td>
-      <td>Ryoku Nix native file manager.</td>
-    </tr>
-    <tr>
-      <td>Ryoku-Nixsync</td>
-      <td>Ryoku on NixOS' automatic updater.</td>
-    </tr>
+      <td>Nixsync</td>
+      <td>Ryoku on NixOS' automatic updater. (In development)</td>
+    </tr> 
   </tbody>
 </table>
 
