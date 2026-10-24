@@ -79,10 +79,6 @@ and contributors. It shares the Ryoku identity while keeping its own implementat
       <td>The Ryoku music application.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ryoku-dev/RyostoreNix">Ryostore for Nix</a></td>
-      <td>Community made add-ons, plugins and themes, built decoratively.</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/ryoku-dev/NixOS-Documentation">NixOS Docs</a></td>
       <td>In depth documentation about the Ryoku-on-NixOS project</td>
     </tr>
