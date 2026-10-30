@@ -88,17 +88,6 @@ and [**contributors**](). It shares the Ryoku identity while keeping its own imp
 <details>
 <summary><b>Explore the desktop</b></summary>
 <br />
-<table>
-  <tr>
-    <td width="50%"><img src="https://raw.githubusercontent.com/aethctl/Ryoku-on-NixOS/main/docs/readme/assets/showroom/torii-sunset.webp" alt="Sunset Ryoku rice" width="100%" /></td>
-    <td width="50%"><img src="https://raw.githubusercontent.com/aethctl/Ryoku-on-NixOS/main/docs/readme/assets/showroom/monochrome-hands.webp" alt="Monochrome Ryoku rice" width="100%" /></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="https://raw.githubusercontent.com/aethctl/Ryoku-on-NixOS/main/docs/readme/assets/showroom/blue-clouds.webp" alt="Blue Ryoku rice" width="100%" /></td>
-    <td width="50%"><img src="https://raw.githubusercontent.com/aethctl/Ryoku-on-NixOS/main/docs/readme/assets/showroom/monochrome-anime.webp" alt="Minimal Ryoku rice" width="100%" /></td>
-  </tr>
-</table>
-
   <table>
   <tr>
     <td width="50%">
