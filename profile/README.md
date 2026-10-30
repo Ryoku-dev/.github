@@ -75,17 +75,13 @@ and contributors. It shares the Ryoku identity while keeping its own implementat
       <td>The distribution, desktop, installer, and system definition.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ryoku-dev/RyotunesNix">Ryotunes for Nix</a></td>
+      <td><a href="https://github.com/ryoku-dev/RyotunesNix">Ryotunes for NixOS</a></td>
       <td>The Ryoku music application.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/ryoku-dev/NixOS-Documentation">NixOS Docs</a></td>
       <td>In depth documentation about the Ryoku-on-NixOS project</td>
     </tr>
-    <tr>
-      <td>Nixsync</td>
-      <td>Ryoku on NixOS' automatic updater. (In development)</td>
-    </tr> 
   </tbody>
 </table>
 
