@@ -79,6 +79,10 @@ and [**contributors**](). It shares the Ryoku identity while keeping its own imp
       <td>The Ryoku music application.</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/ryoku-dev/Ryomarket">Ryomarket</a></td>
+      <td>The Marketplace for Ryoku apps, flatpaks, flakes and nixpkgs</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/ryoku-dev/NixOS-Documentation">NixOS Docs</a></td>
       <td>In depth documentation about the Ryoku-on-NixOS project</td>
     </tr>
