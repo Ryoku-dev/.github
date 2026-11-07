@@ -1,27 +1,48 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/326399798?s=240&v=4" alt="Ryoku" width="120" />
+<a href="https://ryoku.dev">
+  <img src="https://raw.githubusercontent.com/Ryoku-dev/ryoku/main/ryoku/assets/brand/logo-mark-v2.png" alt="Ryoku emblem" width="116" />
+</a>
 
-# Ryoku
+<br />
 
-**The Ryoku Project**
+<sub><strong>緑 · THE RYOKU PROJECT</strong></sub>
 
-*力と美のために — For the sake of power and beauty.*
+<h1>Ryoku</h1>
 
-[Website](https://ryoku.dev) · [Documentation](https://docs.ryoku.dev) · [Contribute](https://github.com/ryoku-dev/ryoku-arch/blob/main/CONTRIBUTING.md)
+<p><strong>力と美のために</strong><br />
+<em>For the sake of power and beauty.</em></p>
 
-</div>
+<p>
+  <a href="https://ryoku.dev"><strong>Discover Ryoku</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://ryoku.dev/showroom">The showroom</a>
+  &nbsp; · &nbsp;
+  <a href="https://docs.ryoku.dev">Documentation</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Ryoku-dev/ryoku/blob/main/CONTRIBUTING.md">Contribute</a>
+</p>
 
-## A passion project, built with the community
+<img width="3199" height="1799" alt="image" src="https://github.com/user-attachments/assets/2fe4e9f7-1fe9-4c96-8b0f-f8968a580f44" />
 
-Ryoku is a community first Linux passion project, led by [neur0map](https://github.com/neur0map) and maintainers in their spare time and improved by generous contributors. There is no large company or full-time engineering team behind it. We care about making something worth using, learning as we build, and giving the community a real part in shaping it.
+<table>
+  <tr>
+    <td width="33.33%">
+      <img width="1333" height="745" alt="image" src="https://github.com/user-attachments/assets/b902957f-e751-45f5-9cb1-54cf8903d0b2" />
+      <td>
+       <td width="33.33%">
+         <img width="1333" height="745" alt="image" src="https://github.com/user-attachments/assets/0a31a9b2-d04a-4a88-b0a5-ab4107ad5be7" />
+      </td>
+        <td width="33.33%">
+          <img width="1333" height="745" alt="image" src="https://github.com/user-attachments/assets/96ccc2ce-f8e7-4176-8dc6-1742de6c71eb" />
+       </tr>
+</table>
 
-Ideas, bug reports, documentation, testing, and code contributions all matter. What we can maintain depends on the time, knowledge, and help available. Community-first means listening and working together, not promising that every request will be included or that support is available around the clock.
+<div align="center">
+  <sub><a href="https://ryoku.dev/showroom">See the full showroom</a></sub>
 
-Ryoku favors a rich, deliberate desktop experience on capable hardware. It is **not a lightweight distribution for older or low-resource computers**. Read each project's requirements before installing.
 
-
-## Projects
+## Ryoku's Repos
 
 <table align="center">
   <thead>
@@ -79,65 +100,28 @@ and [**contributors**](). It shares the Ryoku identity while keeping its own imp
       <td>The Ryoku music application.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ryoku-dev/Ryomarket">Ryomarket</a></td>
-      <td>The Marketplace for Ryoku apps, flatpaks, flakes and nixpkgs</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/ryoku-dev/NixOS-Documentation">NixOS Docs</a></td>
       <td>In depth documentation about the Ryoku-on-NixOS project</td>
     </tr>
   </tbody>
 </table>
 
-<details>
-<summary><b>Explore the desktop</b></summary>
+## Made by individuals.
+
+Ryoku is a passion project led by [neur0map](https://github.com/neur0map), maintained in spare time and shaped alongside its contributors. It is community-first, but not a company with a support department or a promise to implement every request. What we build depends on what we can responsibly maintain.
+
+If you want to take part, **test something**, **document something**, **report a reproducible bug**, or **contribute a focused improvement**. For larger ideas, start with a conversation.
+
+[Contributing](https://github.com/Ryoku-dev/ryoku/blob/main/CONTRIBUTING.md) · [Code of conduct](https://github.com/Ryoku-dev/ryoku/blob/main/CODE_OF_CONDUCT.md) · [Governance](https://github.com/Ryoku-dev/.github/blob/main/GOVERNANCE.md) · [Security policy](https://github.com/Ryoku-dev/ryoku/blob/main/SECURITY.md)
+
+For private project or stewardship matters: [neuro@ryoku.dev](mailto:neuro@ryoku.dev).
+
+<sub>Ryoku is open source and builds on the work of others. Each repository's licenses, notices, contributors and fork history remain authoritative. The GitHub organisation is a collaboration home, not a claim of charitable or nonprofit status.</sub>
+
 <br />
-  <table>
-  <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/aethctl/Ryoku-on-NixOS/main/docs/readme/assets/ui/desktop.png" alt="Ryoku desktop" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/aethctl/Ryoku-on-NixOS/main/docs/readme/assets/ui/launcher.webp" alt="Ryoku launcher" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/aethctl/Ryoku-on-NixOS/main/docs/readme/assets/ui/controls.webp" alt="Ryoku desktop controls" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/aethctl/Ryoku-on-NixOS/main/docs/readme/assets/ui/hub-page.webp" alt="Ryoku Hub" width="100%" />
-    </td>
-  </tr>
-</table>
-</details>
 
-## Open source, with credit where it belongs
+<div align="center">
 
-Ryoku depends on the work of many upstream projects. Individual repositories retain their licenses, notices, contributor credits, and fork histories. Moving them into this organization does not erase that history or transfer every contributor's copyright.
+<img src="https://raw.githubusercontent.com/Ryoku-dev/.github/main/profile/assets/torii.png" alt="Ryoku torii artwork" width="450" />
 
-The project is founder-led, with community participation and responsibilities delegated to maintainers as they join. See our [governance](https://github.com/ryoku-dev/.github/blob/main/GOVERNANCE.md) for how decisions and stewardship work. This GitHub organization is our collaboration home; it does not itself establish nonprofit or charitable status.
-
-## Get involved
-
-- Report reproducible bugs in the relevant project's issue tracker.
-- Discuss ideas before starting large changes.
-- Help test releases, improve documentation, or contribute a focused fix.
-- Respect each project's [contribution guidelines](https://github.com/ryoku-dev/ryoku-arch/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/ryoku-dev/ryoku-arch/blob/main/CODE_OF_CONDUCT.md).
-- For private project or stewardship questions: [neuro@ryoku.dev](mailto:neuro@ryoku.dev).
-
-For security vulnerabilities, follow the affected repository's security policy instead of opening a public issue.
-
-<br>
-
-<hr>
-
-<br>
-
-<p align="center">
-
-  <img src="assets/torii.png" alt="Torii" width="600">
-</p>
-<p align="center">
-  <strong>力と美のために — For the sake of power and beauty.</strong>
-</p>
+<br />
