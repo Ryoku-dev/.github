@@ -70,12 +70,6 @@
 </table>
 
 
-<br>
-
-<hr>
-
-<br>
-
 ## Ryoku on NixOS
 
 <table align="center">
