@@ -40,7 +40,7 @@
   <sub><a href="https://ryoku.dev/showroom">See the full showroom</a></sub>
 
 
-## Ryoku's Repos
+## Ryoku
 
 <table align="center">
   <thead>
@@ -51,7 +51,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ryoku-dev/ryoku-arch">Ryoku Arch</a></td>
+      <td><a href="https://github.com/ryoku-dev/ryoku-arch">Ryoku</a></td>
       <td>The distribution, desktop, installer, and system definition.</td>
     </tr>
     <tr>
@@ -78,9 +78,6 @@
 
 ## Ryoku on NixOS
 
-[Ryoku on NixOS](https://github.com/ryoku-dev/Ryoku-on-NixOS) is our official port of Ryoku to NixOS maintained by [**aethctl**](https://github.com/aethctl).
-and [**contributors**](). It shares the Ryoku identity while keeping its own implementation and maintainership. Follow that repository's installation and support guidance for NixOS.
-
 <table align="center">
   <thead>
     <tr>
@@ -98,6 +95,10 @@ and [**contributors**](). It shares the Ryoku identity while keeping its own imp
       <td>The Ryoku music application.</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/ryoku-dev/ryomarket">NixOS Docs</a></td>
+      <td>Ryoku marketplace for Ryoku apps, flakes, flatpaks and nixpkgs.</td>
+    </tr>
+     <tr>
       <td><a href="https://github.com/ryoku-dev/NixOS-Documentation">NixOS Docs</a></td>
       <td>In depth documentation about the Ryoku-on-NixOS project</td>
     </tr>
@@ -106,11 +107,11 @@ and [**contributors**](). It shares the Ryoku identity while keeping its own imp
 
 ## Made by individuals.
 
-Ryoku is a passion project led by [neur0map](https://github.com/neur0map), maintained in spare time and shaped alongside its contributors. It is community-first, but not a company with a support department or a promise to implement every request. What we build depends on what we can responsibly maintain.
+[Ryoku](https://github.com/ryoku-dev/Ryoku) and [Ryoku on NixOS](https://github.com/ryoku-dev/ryoku-on-nixos) is a passion project led by [neur0map](https://github.com/neur0map) and [aethctl](https://github.com/aethctl), maintained in spare time and shaped alongside its contributors. It is community first, but not a company with a support department or a promise to implement every request. What we build depends on what we can responsibly maintain.
 
 If you want to take part, **test something**, **document something**, **report a reproducible bug**, or **contribute a focused improvement**. For larger ideas, start with a conversation.
 
-[Contributing](https://github.com/Ryoku-dev/ryoku/blob/main/CONTRIBUTING.md) · [Code of conduct](https://github.com/Ryoku-dev/ryoku/blob/main/CODE_OF_CONDUCT.md) · [Governance](https://github.com/Ryoku-dev/.github/blob/main/GOVERNANCE.md) · [Security policy](https://github.com/Ryoku-dev/ryoku/blob/main/SECURITY.md)
+[Contributing](https://github.com/Ryoku-dev/ryoku/blob/main/CONTRIBUTING.md) · [Code of conduct](https://github.com/Ryoku-dev/ryoku/blob/main/CODE_OF_CONDUCT.md) · [Governance](https://github.com/Ryoku-dev/.github/blob/main/GOVERNANCE.md) · [Security policy](https://github.com/Ryoku-dev/ryoku/blob/main/SECURITY.md) 
 
 For private project or stewardship matters: [neuro@ryoku.dev](mailto:neuro@ryoku.dev).
 
