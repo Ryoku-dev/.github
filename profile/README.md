@@ -16,8 +16,6 @@
 <p>
   <a href="https://ryoku.dev"><strong>Discover Ryoku</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://ryoku.dev/showroom">The showroom</a>
-  &nbsp; · &nbsp;
   <a href="https://docs.ryoku.dev">Documentation</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/Ryoku-dev/ryoku/blob/main/CONTRIBUTING.md">Contribute</a>
