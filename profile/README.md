@@ -40,7 +40,7 @@
   <sub><a href="https://ryoku.dev/showroom">See the full showroom</a></sub>
 
 
-## Ryoku
+# Ryoku
 
 <table align="center">
   <thead>
@@ -70,7 +70,7 @@
 </table>
 
 
-## Ryoku on NixOS
+# Ryoku on NixOS
 
 <table align="center">
   <thead>
