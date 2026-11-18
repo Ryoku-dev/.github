@@ -101,15 +101,13 @@
 
 ## Made by individuals.
 
-[Ryoku](https://github.com/ryoku-dev/Ryoku) and [Ryoku on NixOS](https://github.com/ryoku-dev/ryoku-on-nixos) is a passion project led by [neur0map](https://github.com/neur0map) and [aethctl](https://github.com/aethctl), maintained in spare time and shaped alongside its contributors. It is community first, but not a company with a support department or a promise to implement every request. What we build depends on what we can responsibly maintain.
-
-If you want to take part, **test something**, **document something**, **report a reproducible bug**, or **contribute a focused improvement**. For larger ideas, start with a conversation.
+[Ryoku](https://github.com/ryoku-dev/Ryoku) and [Ryoku on NixOS](https://github.com/ryoku-dev/ryoku-on-nixos) are passion projects led by [neur0map](https://github.com/neur0map) and [aethctl](https://github.com/aethctl) and is maintained in their spare time then improved by contributors. It is a community made project, not a company with funding, support department or a promise to implement every request. What we build depends on what we can responsibly maintain.
 
 [Contributing](https://github.com/Ryoku-dev/ryoku/blob/main/CONTRIBUTING.md) · [Code of conduct](https://github.com/Ryoku-dev/ryoku/blob/main/CODE_OF_CONDUCT.md) · [Governance](https://github.com/Ryoku-dev/.github/blob/main/GOVERNANCE.md) · [Security policy](https://github.com/Ryoku-dev/ryoku/blob/main/SECURITY.md) 
 
 For private project or stewardship matters: [neuro@ryoku.dev](mailto:neuro@ryoku.dev).
 
-<sub>Ryoku is open source and builds on the work of others. Each repository's licenses, notices, contributors and fork history remain authoritative. The GitHub organisation is a collaboration home, not a claim of charitable or nonprofit status.</sub>
+<sub>Ryoku is open source and builds on the work of others. Each repositories licenses, notices, contributors and fork history are not edited/ changed. This GitHub organization is a collaboration home, not a claim of charitable or nonprofit status.</sub>
 
 <br />
 
