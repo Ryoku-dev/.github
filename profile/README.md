@@ -103,7 +103,7 @@
 
 [Ryoku](https://github.com/ryoku-dev/Ryoku) and [Ryoku on NixOS](https://github.com/ryoku-dev/ryoku-on-nixos) are passion projects led by [neur0map](https://github.com/neur0map) and [aethctl](https://github.com/aethctl) and is maintained in their spare time then improved by contributors. It is a community made project, not a company with funding, support department or a promise to implement every request. What we build depends on what we can responsibly maintain.
 
-[Contributing](https://github.com/Ryoku-dev/ryoku/blob/main/CONTRIBUTING.md) · [Code of conduct](https://github.com/Ryoku-dev/ryoku/blob/main/CODE_OF_CONDUCT.md) · [Governance](https://github.com/Ryoku-dev/.github/blob/main/GOVERNANCE.md) · [Security policy](https://github.com/Ryoku-dev/ryoku/blob/main/SECURITY.md) 
+[Contributing](https://github.com/Ryoku-dev/ryoku/blob/main/CONTRIBUTING.md) · [Code of conduct](https://github.com/Ryoku-dev/ryoku/blob/main/CODE_OF_CONDUCT.md) · [Governance](https://github.com/Ryoku-dev/.github/blob/main/GOVERNANCE.md) · [Testers and contributors](https://github.com/Ryoku-dev/.github/blob/main/MEMBERSHIP.md) · [Security policy](https://github.com/Ryoku-dev/ryoku/blob/main/SECURITY.md) 
 
 For private project or stewardship matters: [neuro@ryoku.dev](mailto:neuro@ryoku.dev).
 

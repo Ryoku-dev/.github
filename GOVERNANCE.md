@@ -12,7 +12,7 @@ The project is maintained in spare time. There is no guaranteed release schedule
 
 ## Access and stewardship
 
-Use individual GitHub accounts, not shared logins. Grant the least access needed for a maintainer's responsibilities. Organization ownership is a high-trust operational role, not a reward for contribution volume or sponsorship.
+Use individual GitHub accounts, not shared logins. Grant the least access needed for a maintainer's responsibilities. Organization ownership is a high-trust operational role, not a reward for contribution volume or sponsorship. Testers and contributors join through the applications described in [MEMBERSHIP.md](MEMBERSHIP.md).
 
 As the maintainer group grows, establish a trusted second owner and document recovery and succession arrangements. Never publish recovery codes, signing keys, or private credentials in the public governance repository.
 
